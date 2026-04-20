@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Tokscale Stats](https://tokscale.ai/api/embed/mfakharealam/svg)](https://tokscale.ai/u/mfakharealam)
+
 <!--
 **mfakharealam/mfakharealam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
